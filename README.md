@@ -3,6 +3,8 @@
 SmartDocuBot is an interactive chatbot that lets users upload documents (PDF, DOCX, TXT), processes them with LLMs, and allows natural language queries to extract relevant answers. Built using **LangChain**, **FAISS**, **SentenceTransformers**, and **Groq’s LLMs**, all inside a stylish **Streamlit UI**.
 
 ---
+![SmartDocuBot UI](FirstPage.jpg)
+---
 
 ## 🚀 Features
 
@@ -34,8 +36,8 @@ SmartDocuBot is an interactive chatbot that lets users upload documents (PDF, DO
 
 ## 📦 Installation
 
-1. **Clone the repo**
+**Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/SmartDocuBot.git
+git clone https://github.com/pavannayak9398/SmartDocumentBot
 cd SmartDocuBot
